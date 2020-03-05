@@ -1,10 +1,3 @@
-# 基于宝塔面板的sspanel-v3-mod-uim一键安装脚本：   
-
-* 在线演示：暂无   
-* 本人博客：https://www.7colorblog.com  
-* 七彩杂铺货：https://faka.7colorblog.com  
-
-#安装教程
 
 ## 宝塔5.9安装
 需要是centos7系统
